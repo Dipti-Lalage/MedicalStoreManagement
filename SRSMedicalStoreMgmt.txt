@@ -1,0 +1,56 @@
+Title : Medical Store Management(MSM) 
+
+Group : Dipti Lalage,
+        Mrunali Mangulkar
+
+List of actors  :
+
+Administrator
+Shopkeeper
+Staff
+
+1.Introduction :
+
+Purpose of project :
+ The main purpose of this project is to maintain details of medical store such as medicine stock,
+ purchases, sales. This s/w is designed to ease work load of medical shop professionals. The main 
+ feature include inventory , stock control and client management. 
+
+Sope of project : 
+ Instead of manually checking the stock, system will notify about the stock.
+ Also help to track all products of your medical shop. 
+
+Definations :
+ MSM - Medical Store Management
+ GUI - Graphical user Interface
+ Stackholder - The person who will participate in system
+                EX. Administrator, Shopkeeper, Staff,etc
+
+
+
+2.Overview :
+         This system provide easy way for managing stocks for store owners without manually checking stock. 
+         This system is used by Store Owner and its staff and not require to have any technical expirtis in computer.
+         Just need to have good knowledge of how to operate computer. 
+
+Product Perspective : 
+   This product is aimed towords managing the stock and customers as well.
+   The shop dosn't want to lose their customers beacuse unable to manage stock of medicines on time.
+
+
+       
+User Characteristics :
+ User should be familier with the terms like
+     Login, register, logout, etc.
+
+Priciple Actors :
+     Principle actors are Administrator, shopkeeper, Staff.
+
+Functional requirement :
+    List of features:
+
+      Stock alert
+      Most purchased medicines
+      Least purchased medicines
+      Inventory Management 
+      Sales Management 
